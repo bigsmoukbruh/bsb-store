@@ -3,10 +3,11 @@
         "button": {
             "name": "myButton",
             "text": "Нажмите меня!",
-            "script": "MessageBox.Show(\\"Привет!\\");"
+            "script": "MessageBox.Show("Hello");"
         }
     }
 ]
+
 
 
 
