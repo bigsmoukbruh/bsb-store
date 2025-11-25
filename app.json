@@ -1,13 +1,14 @@
 [
     {
         "button": {
-            "name": "buttontest",
+            "name": "myButton",
             "text": "Нажмите меня!",
-            "script": "MessageBox.Show(\"Привет!\");"
-        },
+            "script": "MessageBox.Show(\\"Привет!\\");"
+        }
     }
-
 ]
+
+
 
 
 
