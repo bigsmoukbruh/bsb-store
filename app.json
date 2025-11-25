@@ -3,7 +3,7 @@
         "button": {
             "name": "buttontest",
             "text": "Нажмите меня!",
-            "script": "MessageBox.Show(\"Привет!");"
+            "script": "MessageBox.Show(\"Привет!\");"
         },
         "button": {
             "name": "Кнопка 2",
@@ -13,4 +13,5 @@
     }
 
 ]
+
 
