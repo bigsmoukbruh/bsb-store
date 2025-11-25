@@ -28,7 +28,7 @@
         "height": 40
       },
       "downloadUrl": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-32.0.2-Windows-x64-Installer.exe",
-      "filename": "obs_installer.msi",
+      "filename": "obs_installer.exe",
       "copyright": "All rights to this application belong to Community OBS. Official site: https://obsproject.com/",
       "folderName": "BSB Store"
     },
@@ -44,7 +44,7 @@
         "height": 40
       },
       "downloadUrl": "https://go.microsoft.com/fwlink/?linkid=2109047&Channel=Stable&language=ru&brand=M100",
-      "filename": "edge_installer.msi",
+      "filename": "edge_installer.exe",
       "copyright": "All rights to this application belong to Google LLC. Official site: https://www.microsoft.com/",
       "folderName": "BSB Store"
     },
@@ -60,7 +60,7 @@
         "height": 40
       },
       "downloadUrl": "https://www.roblox.com/download/client?os=win",
-      "filename": "roblox_installer.msi",
+      "filename": "roblox_installer.exe",
       "copyright": "All rights to this application belong to Roblox Corporation. Official site: https://www.roblox.com/",
       "folderName": "BSB Store"
     },
@@ -76,7 +76,7 @@
         "height": 40
       },
       "downloadUrl": "https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Stable&version=VS18&source=VSLandingPage&cid=2500&passive=false",
-      "filename": "visualstudiocommunity_installer.msi",
+      "filename": "visualstudiocommunity_installer.exe",
       "copyright": "All rights to this application belong to Microsoft. Official site: https://www.microsoft.com/",
       "folderName": "BSB Store"
     },
@@ -92,7 +92,7 @@
         "height": 40
       },
       "downloadUrl": "https://telegram.org/dl/desktop/win64",
-      "filename": "telegramdesktop_installer.msi",
+      "filename": "telegramdesktop_installer.exe",
       "copyright": "All rights to this application belong to Telegram. Official site: https://telegram.org/",
       "folderName": "BSB Store"
     },
@@ -108,12 +108,13 @@
         "height": 40
       },
       "downloadUrl": "https://get.microsoft.com/installer/download/9NKSQGP7F2NH?cid=website_cta_psi",
-      "filename": "whatsapp_installer.msi",
+      "filename": "whatsapp_installer.exe",
       "copyright": "All rights to this application belong to Meta. Official site: https://www.whatsapp.com/",
       "folderName": "BSB Store"
     }
   ]
 }
+
 
 
 
