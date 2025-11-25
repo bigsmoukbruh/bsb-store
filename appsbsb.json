@@ -95,9 +95,26 @@
       "filename": "telegramdesktop_installer.msi",
       "copyright": "All rights to this application belong to Telegram. Official site: https://telegram.org/",
       "folderName": "BSB Store"
+    },
+         {
+      "name": "Downloadwhatsapp",
+      "text": "WhatsApp",
+      "location": {
+        "x": 10,
+        "y": 310
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://get.microsoft.com/installer/download/9NKSQGP7F2NH?cid=website_cta_psi",
+      "filename": "whatsapp_installer.msi",
+      "copyright": "All rights to this application belong to Meta. Official site: https://www.whatsapp.com/",
+      "folderName": "BSB Store"
     }
   ]
 }
+
 
 
 
