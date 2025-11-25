@@ -1,9 +1,9 @@
 [
     {
         "button": {
-            "name": "Кнопка 1",
+            "name": "buttontest",
             "text": "Нажмите меня!",
-            "script": "MessageBox.Show(\"Привет!\");"
+            "script": "MessageBox.Show("Привет!");"
         },
         "button": {
             "name": "Кнопка 2",
@@ -11,4 +11,5 @@
             "script": "System.Diagnostics.Process.Start(\"notepad.exe\");"
         }
     }
+
 ]
