@@ -17,8 +17,8 @@
       "folderName": "BSB Store"
     },
     {
-      "name": "DownloadChrome",
-      "text": "Chrome",
+      "name": "Downloadobs",
+      "text": "OBS",
       "location": {
         "x": 10,
         "y": 60
@@ -27,13 +27,30 @@
         "width": 200,
         "height": 40
       },
-      "downloadUrl": "https://dl.google.com/chrome/install/standalone/GoogleChromeStandaloneEnterprise64.msi",
-      "filename": "chrome_installer.msi",
-      "copyright": "All rights to this application belong to Google LLC. Official site: https://www.google.com/chrome/",
+      "downloadUrl": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-32.0.2-Windows-x64-Installer.exe",
+      "filename": "obs_installer.msi",
+      "copyright": "All rights to this application belong to Community OBS. Official site: https://obsproject.com/",
+      "folderName": "BSB Store"
+    },
+     {
+      "name": "Downloadedge",
+      "text": "Edge",
+      "location": {
+        "x": 10,
+        "y": 110
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://go.microsoft.com/fwlink/?linkid=2109047&Channel=Stable&language=ru&brand=M100",
+      "filename": "edge_installer.msi",
+      "copyright": "All rights to this application belong to Google LLC. Official site: https://www.microsoft.com/",
       "folderName": "BSB Store"
     }
   ]
 }
+
 
 
 
