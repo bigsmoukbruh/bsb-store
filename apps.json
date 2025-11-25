@@ -1,4 +1,12 @@
 {
-  "buttonText": "Зашифрованная кнопка",
-  "encryptedScript": "MessageBox.Show(\"Привет мир!\");"
+  "buttons": [
+    {
+      "name": "TestButton",
+      "text": "Нажми меня",
+      "location": { "x": 10, "y": 10 },
+      "size": { "width": 100, "height": 30 },
+      "script": "MessageBox.Show(\"Скрипт выполнен!\");"
+    }
+  ]
 }
+
