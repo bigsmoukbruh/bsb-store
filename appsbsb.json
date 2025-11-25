@@ -24,8 +24,9 @@
         "width": 120,
         "height": 40
       },
-      "script": "MessageBox.Show(\"Complite!\");"
+      "script": "MessageBox.Show(\"Complite! 2 script\");"
     }
   ]
 }
+
 
