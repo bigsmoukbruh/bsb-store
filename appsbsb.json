@@ -63,9 +63,26 @@
       "filename": "roblox_installer.msi",
       "copyright": "All rights to this application belong to Roblox Corporation. Official site: https://www.roblox.com/",
       "folderName": "BSB Store"
+    },
+    {
+      "name": "Downloadvisualstudio",
+      "text": "Visual studio community",
+      "location": {
+        "x": 10,
+        "y": 210
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Stable&version=VS18&source=VSLandingPage&cid=2500&passive=false",
+      "filename": "visualstudiocommunity_installer.msi",
+      "copyright": "All rights to this application belong to Microsoft. Official site: https://www.microsoft.com/",
+      "folderName": "BSB Store"
     }
   ]
 }
+
 
 
 
