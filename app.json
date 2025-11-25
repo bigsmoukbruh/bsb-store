@@ -1,0 +1,14 @@
+[
+    {
+        "button": {
+            "name": "Кнопка 1",
+            "text": "Нажмите меня!",
+            "script": "MessageBox.Show(\"Привет!\");"
+        },
+        "button": {
+            "name": "Кнопка 2",
+            "text": "Еще одна кнопка",
+            "script": "System.Diagnostics.Process.Start(\"notepad.exe\");"
+        }
+    }
+]
