@@ -2,7 +2,7 @@
   "buttons": [
     {
       "name": "TestButton",
-      "text": "Нажми меня",
+      "text": "Winrar",
       "location": {
         "x": 10,
         "y": 10
@@ -11,7 +11,7 @@
         "width": 100,
         "height": 30
       },
-      "script": "MessageBox.Show(\"Скрипт выполнен!\");"
+      "script": "MessageBox.Show(\"Complite!\");"
     },
     {
       "name": "SecondButton",
@@ -28,4 +28,5 @@
     }
   ]
 }
+
 
