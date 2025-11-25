@@ -2,7 +2,7 @@
   "apps": [
     {
       "name": "DownloadFirefox",
-      "text": "Скачать Firefox",
+      "text": "Firefox",
       "location": {
         "x": 10,
         "y": 10
@@ -13,8 +13,8 @@
       },
       "downloadUrl": "https://download.mozilla.org/?product=firefox-stub&os=win&lang=ru",
       "filename": "firefox_installer.exe",
-      "copyright": "Все права на данное приложение принадлежат Mozilla Corporation. Официальный сайт: https://www.mozilla.org/firefox/",
-      "folderName": "BSB APP Market"
+      "copyright": "All rights to this application belong to Mozilla Corporation.  Official site: https://www.mozilla.org/firefox/",
+      "folderName": "BSB Store"
     },
     {
       "name": "DownloadChrome",
@@ -47,5 +47,6 @@
     }
   ]
 }
+
 
 
