@@ -18,7 +18,7 @@
     },
     {
       "name": "DownloadChrome",
-      "text": "Скачать Chrome",
+      "text": "Chrome",
       "location": {
         "x": 10,
         "y": 60
@@ -29,8 +29,8 @@
       },
       "downloadUrl": "https://dl.google.com/chrome/install/standalone/GoogleChromeStandaloneEnterprise64.msi",
       "filename": "chrome_installer.msi",
-      "copyright": "Все права на данное приложение принадлежат Google LLC. Официальный сайт: https://www.google.com/chrome/",
-      "folderName": "BSB APP Market"
+      "copyright": "All rights to this application belong to Google LLC. Official site: https://www.google.com/chrome/",
+      "folderName": "BSB Store"
     },
     {
       "name": "TestButton",
@@ -47,6 +47,7 @@
     }
   ]
 }
+
 
 
 
