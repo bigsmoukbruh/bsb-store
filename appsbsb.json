@@ -47,9 +47,26 @@
       "filename": "edge_installer.msi",
       "copyright": "All rights to this application belong to Google LLC. Official site: https://www.microsoft.com/",
       "folderName": "BSB Store"
+    },
+     {
+      "name": "Downloadroblox",
+      "text": "Roblox",
+      "location": {
+        "x": 10,
+        "y": 160
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://www.roblox.com/download/client?os=win",
+      "filename": "roblox_installer.msi",
+      "copyright": "All rights to this application belong to Roblox Corporation. Official site: https://www.roblox.com/",
+      "folderName": "BSB Store"
     }
   ]
 }
+
 
 
 
