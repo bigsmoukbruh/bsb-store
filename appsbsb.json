@@ -79,9 +79,26 @@
       "filename": "visualstudiocommunity_installer.msi",
       "copyright": "All rights to this application belong to Microsoft. Official site: https://www.microsoft.com/",
       "folderName": "BSB Store"
+    },
+     {
+      "name": "Downloadtelegram",
+      "text": "Telegram Desktop",
+      "location": {
+        "x": 10,
+        "y": 260
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://telegram.org/dl/desktop/win64",
+      "filename": "telegramdesktop_installer.msi",
+      "copyright": "All rights to this application belong to Telegram. Official site: https://telegram.org/",
+      "folderName": "BSB Store"
     }
   ]
 }
+
 
 
 
