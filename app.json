@@ -5,13 +5,9 @@
             "text": "Нажмите меня!",
             "script": "MessageBox.Show(\"Привет!\");"
         },
-        "button": {
-            "name": "Кнопка 2",
-            "text": "Еще одна кнопка",
-            "script": "System.Diagnostics.Process.Start(\"notepad.exe\");"
-        }
     }
 
 ]
+
 
 
