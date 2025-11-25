@@ -31,22 +31,10 @@
       "filename": "chrome_installer.msi",
       "copyright": "All rights to this application belong to Google LLC. Official site: https://www.google.com/chrome/",
       "folderName": "BSB Store"
-    },
-    {
-      "name": "TestButton",
-      "text": "Тестовая кнопка",
-      "location": {
-        "x": 10,
-        "y": 110
-      },
-      "size": {
-        "width": 120,
-        "height": 30
-      },
-      "script": "SHOW_MESSAGE:Тестовая кнопка работает!"
     }
   ]
 }
+
 
 
 
