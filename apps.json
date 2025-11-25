@@ -1,5 +1,4 @@
 {
-  "buttonText": "Нажмите меня",
-  "scriptContent": "Console.WriteLine(\"Привет мир!\");"
+  "buttonText": "Зашифрованная кнопка",
+  "encryptedScript": "MessageBox.Show(\"Привет мир!\");"
 }
-
