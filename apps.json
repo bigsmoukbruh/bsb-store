@@ -1,4 +1,5 @@
 {
   "buttonText": "Нажмите меня",
-  "scriptContent": "Console.WriteLine(\\"Привет мир!\\");"
+  "scriptContent": "Console.WriteLine(\"Привет мир!\");"
 }
+
