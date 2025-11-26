@@ -143,9 +143,26 @@
       "filename": "blender_installer.exe",
       "copyright": "All rights to this application belong to Blender Foundation. Official site: https://www.blender.org/",
       "folderName": "BSB Store"
+    },
+          {
+      "name": "Downloadanimaze",
+      "text": "Animaze",
+      "location": {
+        "x": 216,
+        "y": 60
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://animaze.tv/download",
+      "filename": "animaze_installer.exe",
+      "copyright": "All rights to this application belong to Holotech Studios. Official site: https://www.animaze.us/",
+      "folderName": "BSB Store"
     }
   ]
 }
+
 
 
 
