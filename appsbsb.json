@@ -127,9 +127,26 @@
       "filename": "bandicam_installer.exe",
       "copyright": "All rights to this application belong to Bandicam Company. Official site: https://bandicam.com/",
       "folderName": "BSB Store"
+    },
+      {
+      "name": "Downloadblender",
+      "text": "Blender",
+      "location": {
+        "x": 91,
+        "y": 10
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://www.blender.org/download/release/Blender5.0/blender-5.0.0-windows-x64.msi/",
+      "filename": "blender_installer.exe",
+      "copyright": "All rights to this application belong to Blender Foundation. Official site: https://www.blender.org/",
+      "folderName": "BSB Store"
     }
   ]
 }
+
 
 
 
