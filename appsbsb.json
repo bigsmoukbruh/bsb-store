@@ -161,7 +161,7 @@
       "folderName": "BSB Store"
     },
      {
-      "name": "Downloadwindos",
+      "name": "DownloadwinDOS",
       "text": "WinDOS 3.0 BETA",
       "location": {
         "x": 216,
@@ -178,6 +178,7 @@
     }
   ]
 }
+
 
 
 
