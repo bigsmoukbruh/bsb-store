@@ -159,9 +159,26 @@
       "filename": "animaze_installer.exe",
       "copyright": "All rights to this application belong to Holotech Studios. Official site: https://www.animaze.us/",
       "folderName": "BSB Store"
+    },
+     {
+      "name": "Downloadwindos",
+      "text": "WinDOS 3.0 BETA",
+      "location": {
+        "x": 216,
+        "y": 110
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://github.com/air7770/WinDOS/releases/download/BETA/WinDOS.3.0.BETA.zip",
+      "filename": "WinDOS.3.0.BETA_installer.exe",
+      "copyright": "Графическая оболочка для windows - MS-DOS. All rights to this application belong to air7770. Official site: https://github.com/air7770/WinDOS",
+      "folderName": "BSB Store"
     }
   ]
 }
+
 
 
 
