@@ -1,1 +1,1 @@
-Your advertisement may be here:)
+Official telegram @bsbappstore (ads)
