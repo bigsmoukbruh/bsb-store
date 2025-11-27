@@ -15,7 +15,7 @@
       "filename": "firefox_installer.exe",
       "copyright": "All rights to this application belong to Mozilla Corporation. Official site: https://www.mozilla.org/firefox/",
       "folderName": "BSB Store",
-      "panel": "main"
+      "panel": "panel2"
     },
     {
       "name": "Downloadobs",
@@ -179,6 +179,7 @@
     }
   ]
 }
+
 
 
 
