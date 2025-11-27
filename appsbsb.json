@@ -13,7 +13,7 @@
       },
       "downloadUrl": "https://download.mozilla.org/?product=firefox-stub&os=win&lang=ru",
       "filename": "firefox_installer.exe",
-      "copyright": "All rights to this application belong to Mozilla Corporation.  Official site: https://www.mozilla.org/firefox/",
+      "copyright": "All rights to this application belong to Mozilla Corporation. Official site: https://www.mozilla.org/firefox/",
       "folderName": "BSB Store",
       "panel": "main"
     },
@@ -179,6 +179,7 @@
     }
   ]
 }
+
 
 
 
