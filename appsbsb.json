@@ -207,9 +207,26 @@
       "filename": "winrar.exe",
       "copyright": "All rights to this application belong to win.rar GmbH. Official site: https://www.rarlab.com/",
       "folderName": "BSB Store"
+    },
+    {
+      "name": "Downloadsevenzip",
+      "text": "7Zip",
+      "location": {
+        "x": 216,
+        "y": 260
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://www.7-zip.org/a/7z2501-x64.exe",
+      "filename": "7zip.exe",
+      "copyright": "All rights to this application belong to Pavlov, Igor Viktorovich. Official site: https://www.7-zip.org/",
+      "folderName": "BSB Store"
     }
   ]
 }
+
 
 
 
