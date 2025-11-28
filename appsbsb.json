@@ -220,12 +220,13 @@
         "height": 40
       },
       "downloadUrl": "https://www.7-zip.org/a/7z2501-x64.exe",
-      "filename": "sevenzip.exe",
+      "filename": "7zip.exe",
       "copyright": "All rights to this application belong to Pavlov, Igor Viktorovich. Official site: https://www.7-zip.org/",
       "folderName": "BSB Store"
     }
   ]
 }
+
 
 
 
