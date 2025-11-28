@@ -175,9 +175,26 @@
       "filename": "WinDOS.3.0.BETA.zip",
       "copyright": "All belong to Airs7770 and all versions are developed by it. The use of the project for embedding virus programs is strictly prohibited. Official site: https://github.com/air7770/WinDOS",
       "folderName": "BSB Store"
+    },
+    {
+      "name": "Downloadhomescaped",
+      "text": "Homescaped",
+      "location": {
+        "x": 216,
+        "y": 170
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://www.microsoft.com/en-US/p/homescapes/9nq9klznv9sh?activetab=pivot:overviewtab",
+      "filename": "homescaped.exe",
+      "copyright": "All rights to this application belong to Playrix. Official site: https://playrix.com/",
+      "folderName": "BSB Store"
     }
   ]
 }
+
 
 
 
