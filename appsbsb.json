@@ -191,9 +191,26 @@
       "filename": "python-3.15.0a2-amd64.exe",
       "copyright": "All rights to this application belong to Python Software Foundation. Official site: https://www.python.org/",
       "folderName": "BSB Store"
+    },
+    {
+      "name": "Downloadwinrar",
+      "text": "WinRAR",
+      "location": {
+        "x": 216,
+        "y": 210
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://www.rarlab.com/rar/winrar-x64-720b2.exe",
+      "filename": "winrar-x64-720b2.exe",
+      "copyright": "All rights to this application belong to win.rar GmbH. Official site: https://www.rarlab.com/",
+      "folderName": "BSB Store"
     }
   ]
 }
+
 
 
 
