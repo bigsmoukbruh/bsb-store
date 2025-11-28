@@ -177,7 +177,7 @@
       "folderName": "BSB Store"
     },
     {
-      "name": "Downloadpython3150a2",
+      "name": "Downloadpython3150a2amd",
       "text": "python-3.15.0a2",
       "location": {
         "x": 216,
@@ -194,6 +194,7 @@
     }
   ]
 }
+
 
 
 
