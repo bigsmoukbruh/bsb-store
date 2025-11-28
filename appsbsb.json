@@ -177,8 +177,8 @@
       "folderName": "BSB Store"
     },
     {
-      "name": "Downloadhomescaped",
-      "text": "Homescaped",
+      "name": "Downloadpython3150a2",
+      "text": "python-3.15.0a2",
       "location": {
         "x": 216,
         "y": 170
@@ -187,13 +187,14 @@
         "width": 200,
         "height": 40
       },
-      "downloadUrl": "https://apps.microsoft.com/detail/9nq9klznv9sh?hl=ru-ru&gl=US",
-      "filename": "homescaped.exe",
-      "copyright": "All rights to this application belong to Playrix. Official site: https://playrix.com/",
+      "downloadUrl": "https://www.python.org/ftp/python/3.15.0/python-3.15.0a2-amd64.exe",
+      "filename": "python-3.15.0a2-amd64.exe",
+      "copyright": "All rights to this application belong to Python Software Foundation. Official site: https://www.python.org/",
       "folderName": "BSB Store"
     }
   ]
 }
+
 
 
 
