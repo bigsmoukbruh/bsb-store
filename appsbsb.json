@@ -223,9 +223,26 @@
       "filename": "7zip.exe",
       "copyright": "All rights to this application belong to Pavlov, Igor Viktorovich. Official site: https://www.7-zip.org/",
       "folderName": "BSB Store"
-    }
+    },
+    {
+          "name": "DownloadNotepad",
+          "text": "Notepad++",
+          "location": {
+            "x": 216,
+            "y": 310
+          },
+          "size": {
+            "width": 200,
+            "height": 40
+          },
+          "downloadUrl": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6/npp.8.6.Installer.x64.exe",
+          "filename": "notepad_installer.exe",
+          "copyright": "All rights to this application belong to Don Ho. Official site: http://notepad-plus-plus.org/",
+          "folderName": "BSB APP Market"
+        },
   ]
 }
+
 
 
 
