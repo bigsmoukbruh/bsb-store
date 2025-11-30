@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "DownloadFireffox",
+      "name": "DownloadFirefox",
       "text": "Firefox",
       "location": {
         "x": 7,
@@ -242,6 +242,7 @@
         },
   ]
 }
+
 
 
 
