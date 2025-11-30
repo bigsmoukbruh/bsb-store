@@ -116,8 +116,8 @@
       "name": "Downloadbandicam",
       "text": "Bandicam",
       "location": {
-        "x": 10,
-        "y": 400
+        "x": 193,
+        "y": 50
       },
       "size": {
         "width": 200,
@@ -132,8 +132,8 @@
       "name": "Downloadblender",
       "text": "Blender",
       "location": {
-        "x": 216,
-        "y": 10
+        "x": 193,
+        "y": 100
       },
       "size": {
         "width": 200,
@@ -148,8 +148,8 @@
       "name": "Downloadanimaze",
       "text": "Animaze",
       "location": {
-        "x": 216,
-        "y": 60
+        "x": 193,
+        "y": 150
       },
       "size": {
         "width": 200,
@@ -164,8 +164,8 @@
       "name": "DownloadwinDOS",
       "text": "WinDOS 3.0 BETA",
       "location": {
-        "x": 216,
-        "y": 110
+        "x": 193,
+        "y": 200
       },
       "size": {
         "width": 200,
@@ -180,8 +180,8 @@
       "name": "Downloadpython3150a2amd",
       "text": "python-3.15.0a2",
       "location": {
-        "x": 216,
-        "y": 160
+        "x": 193,
+        "y": 250
       },
       "size": {
         "width": 200,
@@ -196,8 +196,8 @@
       "name": "Downloadwinrar",
       "text": "WinRAR",
       "location": {
-        "x": 216,
-        "y": 210
+        "x": 193,
+        "y": 300
       },
       "size": {
         "width": 200,
@@ -212,8 +212,8 @@
       "name": "Downloadsevenzip",
       "text": "7Zip",
       "location": {
-        "x": 216,
-        "y": 260
+        "x": 193,
+        "y": 350
       },
       "size": {
         "width": 200,
@@ -242,6 +242,7 @@
         },
   ]
 }
+
 
 
 
