@@ -4,8 +4,8 @@
       "name": "DownloadFirefox",
       "text": "Firefox",
       "location": {
-        "x": 10,
-        "y": 10
+        "x": 7,
+        "y": 50
       },
       "size": {
         "width": 200,
@@ -20,8 +20,8 @@
       "name": "Downloadobs",
       "text": "OBS",
       "location": {
-        "x": 10,
-        "y": 60
+        "x": 7,
+        "y": 100
       },
       "size": {
         "width": 200,
@@ -36,8 +36,8 @@
       "name": "Downloadedge",
       "text": "Edge",
       "location": {
-        "x": 10,
-        "y": 110
+        "x": 7,
+        "y": 150
       },
       "size": {
         "width": 200,
@@ -52,8 +52,8 @@
       "name": "Downloadroblox",
       "text": "Roblox",
       "location": {
-        "x": 10,
-        "y": 160
+        "x": 7,
+        "y": 200
       },
       "size": {
         "width": 200,
@@ -68,8 +68,8 @@
       "name": "Downloadvisualstudio",
       "text": "Visual Studio Community",
       "location": {
-        "x": 10,
-        "y": 210
+        "x": 7,
+        "y": 250
       },
       "size": {
         "width": 200,
@@ -84,8 +84,8 @@
       "name": "Downloadtelegram",
       "text": "Telegram Desktop",
       "location": {
-        "x": 10,
-        "y": 260
+        "x": 7,
+        "y": 300
       },
       "size": {
         "width": 200,
@@ -100,8 +100,8 @@
       "name": "Downloadwhatsapp",
       "text": "WhatsApp",
       "location": {
-        "x": 10,
-        "y": 310
+        "x": 7,
+        "y": 350
       },
       "size": {
         "width": 200,
@@ -242,6 +242,7 @@
         },
   ]
 }
+
 
 
 
