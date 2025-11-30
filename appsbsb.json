@@ -116,7 +116,7 @@
       "name": "Downloadbandicam",
       "text": "Bandicam",
       "location": {
-        "x": 193,
+        "x": 213,
         "y": 50
       },
       "size": {
@@ -242,6 +242,7 @@
         },
   ]
 }
+
 
 
 
