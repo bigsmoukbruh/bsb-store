@@ -225,7 +225,7 @@
       "folderName": "BSB Store"
     },
     {
-          "name": "DownloadNotepadd",
+          "name": "DownloadNotepad",
           "text": "Notepad++",
           "location": {
             "x": 419,
@@ -242,6 +242,7 @@
         },
   ]
 }
+
 
 
 
