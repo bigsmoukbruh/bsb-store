@@ -225,11 +225,11 @@
       "folderName": "BSB Store"
     },
     {
-          "name": "DownloadNotepad",
+          "name": "DownloadNotepadd",
           "text": "Notepad++",
           "location": {
             "x": 419,
-            "y": 310
+            "y": 50
           },
           "size": {
             "width": 200,
@@ -242,6 +242,7 @@
         },
   ]
 }
+
 
 
 
