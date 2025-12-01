@@ -240,8 +240,25 @@
           "copyright": "All rights to this application belong to Don Ho. Official site: http://notepad-plus-plus.org/",
           "folderName": "BSB APP Market"
         },
+    {
+          "name": "Downloadrockstarlauncher",
+          "text": "Rockstar Games Launcher",
+          "location": {
+            "x": 419,
+            "y": 100
+          },
+          "size": {
+            "width": 200,
+            "height": 40
+          },
+          "downloadUrl": "https://gamedownloads.rockstargames.com/public/installer/Rockstar-Games-Launcher.exe",
+          "filename": "rgl_installer.exe",
+          "copyright": "All rights to this application belong to Rockstar Games. Official site: https://www.rockstargames.com/",
+          "folderName": "BSB APP Market"
+    }
   ]
 }
+
 
 
 
