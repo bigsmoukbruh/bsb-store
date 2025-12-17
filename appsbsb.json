@@ -1,0 +1,321 @@
+{
+  "apps": [
+    {
+      "name": "DownloadFirefox",
+      "text": "Firefox",
+      "location": {
+        "x": 7,
+        "y": 50
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://download.mozilla.org/?product=firefox-stub&os=win&lang=ru",
+      "filename": "firefox_installer.exe",
+      "copyright": "All rights to this application belong to Mozilla Corporation. Official site: https://www.mozilla.org/firefox/",
+      "folderName": "BSB Store"
+    },
+    {
+      "name": "Downloadobs",
+      "text": "OBS",
+      "location": {
+        "x": 7,
+        "y": 100
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-32.0.2-Windows-x64-Installer.exe",
+      "filename": "obs_installer.exe",
+      "copyright": "All rights to this application belong to Community OBS. Official site: https://obsproject.com/",
+      "folderName": "BSB Store"
+    },
+     {
+      "name": "Downloadedge",
+      "text": "Edge",
+      "location": {
+        "x": 7,
+        "y": 150
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://go.microsoft.com/fwlink/?linkid=2109047&Channel=Stable&language=ru&brand=M100",
+      "filename": "edge_installer.exe",
+      "copyright": "All rights to this application belong to Google LLC. Official site: https://www.microsoft.com/",
+      "folderName": "BSB Store"
+    },
+     {
+      "name": "Downloadroblox",
+      "text": "Roblox",
+      "location": {
+        "x": 7,
+        "y": 200
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://www.roblox.com/download/client?os=win",
+      "filename": "roblox_installer.exe",
+      "copyright": "All rights to this application belong to Roblox Corporation. Official site: https://www.roblox.com/",
+      "folderName": "BSB Store"
+    },
+    {
+      "name": "Downloadvisualstudio",
+      "text": "Visual Studio Community",
+      "location": {
+        "x": 7,
+        "y": 250
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&channel=Stable&version=VS18&source=VSLandingPage&cid=2500&passive=false",
+      "filename": "visualstudiocommunity_installer.exe",
+      "copyright": "All rights to this application belong to Microsoft. Official site: https://www.microsoft.com/",
+      "folderName": "BSB Store"
+    },
+     {
+      "name": "Downloadtelegram",
+      "text": "Telegram Desktop",
+      "location": {
+        "x": 7,
+        "y": 300
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://telegram.org/dl/desktop/win64",
+      "filename": "telegramdesktop_installer.exe",
+      "copyright": "All rights to this application belong to Telegram. Official site: https://telegram.org/",
+      "folderName": "BSB Store"
+    },
+         {
+      "name": "Downloadwhatsapp",
+      "text": "WhatsApp",
+      "location": {
+        "x": 7,
+        "y": 350
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://get.microsoft.com/installer/download/9NKSQGP7F2NH?cid=website_cta_psi",
+      "filename": "whatsapp_installer.exe",
+      "copyright": "All rights to this application belong to Meta. Official site: https://www.whatsapp.com/",
+      "folderName": "BSB Store"
+    },
+      {
+      "name": "Downloadbandicam",
+      "text": "Bandicam",
+      "location": {
+        "x": 213,
+        "y": 50
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://dl.bandicam.com/bdcamsetup.exe",
+      "filename": "bandicam_installer.exe",
+      "copyright": "All rights to this application belong to Bandicam Company. Official site: https://bandicam.com/",
+      "folderName": "BSB Store"
+    },
+      {
+      "name": "Downloadblender",
+      "text": "Blender",
+      "location": {
+        "x": 213,
+        "y": 100
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://www.blender.org/download/release/Blender5.0/blender-5.0.0-windows-x64.msi/",
+      "filename": "blender_installer.exe",
+      "copyright": "All rights to this application belong to Blender Foundation. Official site: https://www.blender.org/",
+      "folderName": "BSB Store"
+    },
+          {
+      "name": "Downloadanimaze",
+      "text": "Animaze",
+      "location": {
+        "x": 213,
+        "y": 150
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://animaze.tv/download",
+      "filename": "animaze_installer.exe",
+      "copyright": "All rights to this application belong to Holotech Studios. Official site: https://www.animaze.us/",
+      "folderName": "BSB Store"
+    },
+     {
+      "name": "DownloadwinDOS",
+      "text": "WinDOS 4.0 BETA",
+      "location": {
+        "x": 213,
+        "y": 200
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://github.com/air7770/WinDOS/releases/download/BETA_4/WinDOS.4.0.BETA.zip",
+      "filename": "WinDOS.4.0.BETA.zip",
+      "copyright": "All belong to Airs7770 and all versions are developed by it. The use of the project for embedding virus programs is strictly prohibited. Official site: https://github.com/air7770/WinDOS",
+      "folderName": "BSB Store"
+    },
+    {
+      "name": "Downloadpython3150a2amd",
+      "text": "python-3.15.0a2",
+      "location": {
+        "x": 213,
+        "y": 250
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://www.python.org/ftp/python/3.15.0/python-3.15.0a2-amd64.exe",
+      "filename": "python-3.15.0a2-amd64.exe",
+      "copyright": "All rights to this application belong to Python Software Foundation. Official site: https://www.python.org/",
+      "folderName": "BSB Store"
+    },
+    {
+      "name": "Downloadwinrar",
+      "text": "WinRAR",
+      "location": {
+        "x": 213,
+        "y": 300
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://www.rarlab.com/rar/winrar-x64-720b2.exe",
+      "filename": "winrar.exe",
+      "copyright": "All rights to this application belong to win.rar GmbH. Official site: https://www.rarlab.com/",
+      "folderName": "BSB Store"
+    },
+    {
+      "name": "Downloadsevenzip",
+      "text": "7Zip",
+      "location": {
+        "x": 213,
+        "y": 350
+      },
+      "size": {
+        "width": 200,
+        "height": 40
+      },
+      "downloadUrl": "https://www.7-zip.org/a/7z2501-x64.exe",
+      "filename": "7zip.exe",
+      "copyright": "All rights to this application belong to Pavlov, Igor Viktorovich. Official site: https://www.7-zip.org/",
+      "folderName": "BSB Store"
+    },
+    {
+          "name": "DownloadNotepad",
+          "text": "Notepad++",
+          "location": {
+            "x": 419,
+            "y": 50
+          },
+          "size": {
+            "width": 200,
+            "height": 40
+          },
+          "downloadUrl": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6/npp.8.6.Installer.x64.exe",
+          "filename": "notepad_installer.exe",
+          "copyright": "All rights to this application belong to Don Ho. Official site: http://notepad-plus-plus.org/",
+          "folderName": "BSB APP Market"
+        },
+    {
+          "name": "Downloadrockstarlauncher",
+          "text": "Rockstar Games Launcher",
+          "location": {
+            "x": 419,
+            "y": 100
+          },
+          "size": {
+            "width": 200,
+            "height": 40
+          },
+          "downloadUrl": "https://gamedownloads.rockstargames.com/public/installer/Rockstar-Games-Launcher.exe",
+          "filename": "rgl_installer.exe",
+          "copyright": "All rights to this application belong to Rockstar Games. Official site: https://www.rockstargames.com/",
+          "folderName": "BSB APP Market"
+    },
+{
+          "name": "Downloadlegacylauncher",
+          "text": "Legacy Launcher",
+          "location": {
+            "x": 419,
+            "y": 150
+          },
+          "size": {
+            "width": 200,
+            "height": 40
+          },
+          "downloadUrl": "https://dl.llaun.ch/legacy/installer",
+          "filename": "legacylauncher_installer.exe",
+          "copyright": "All rights to this application belong to Legacy Launcher. Official site: https://llaun.ch/",
+          "folderName": "BSB APP Market"
+    },
+{
+          "name": "Downloadminecraftlauncher",
+          "text": "Minecraft Launcher",
+          "location": {
+            "x": 419,
+            "y": 200
+          },
+          "size": {
+            "width": 200,
+            "height": 40
+          },
+          "downloadUrl": "https://aka.ms/minecraftClientGameCoreWindows",
+          "filename": "minecraftlauncher_installer.exe",
+          "copyright": "All rights to this application belong to Minecraft. Official site: www.minecraft.net/",
+          "folderName": "BSB APP Market"
+    },
+{
+          "name": "Downloaduntool",
+          "text": "Uninstall Tool",
+          "location": {
+            "x": 419,
+            "y": 250
+          },
+          "size": {
+            "width": 200,
+            "height": 40
+          },
+          "downloadUrl": "https://crystalidea.com/downloads/uninstalltool_setup.exe",
+          "filename": "uninstalltool_installer.exe",
+          "copyright": "All rights to this application belong to Crystal IDEA. Official site: https://crystalidea.com/",
+          "folderName": "BSB APP Market"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
