@@ -306,7 +306,7 @@
     },
     {
           "name": "Downloadwindos",
-          "text": "Uninstall Tool",
+          "text": "WinDOS Beta Console",
           "location": {
             "x": 419,
             "y": 300
@@ -322,6 +322,7 @@
     }
   ]
 }
+
 
 
 
